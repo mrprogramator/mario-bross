@@ -1,0 +1,10 @@
+{
+    "name" : "mario-bross",
+    "version": "0.0.1",
+    "license": "N/A",
+    "description": "A project about mario bross",
+    "private": true,
+    "dependencies":{
+        "express" : "*"
+    }
+}
